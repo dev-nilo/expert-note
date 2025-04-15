@@ -43,19 +43,19 @@ To run this project locally:
 
 
 ## 📁 Project Structure
-```
-expert-note/
-├── public/             # Static assets
-├── src/                # Source code
-│   ├── components/     # Reusable components
-│   ├── pages/          # Application pages
-│   ├── App.tsx         # Main application component
-│   └── main.tsx        # Entry point
-├── index.html          # HTML template
-├── package.json        # Project metadata and scripts
-├── tailwind.config.js  # Tailwind CSS configuration
-└── vite.config.ts      # Vite configuration
-```
+   ```plaintext
+   expert-note/
+   ├── public/             # Static assets
+   ├── src/                # Source code
+   │   ├── components/     # Reusable components
+   │   ├── pages/          # Application pages
+   │   ├── App.tsx         # Main application component
+   │   └── main.tsx        # Entry point
+   ├── index.html          # HTML template
+   ├── package.json        # Project metadata and scripts
+   ├── tailwind.config.js  # Tailwind CSS configuration
+   └── vite.config.ts      # Vite configuration
+   ```
 
 ## 🤝 Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
