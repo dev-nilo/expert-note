@@ -28,13 +28,16 @@ To run this project locally:
    git clone https://github.com/dev-nilo/expert-note.git
    
 2. **Navigate to the project directory:**
-  cd expert-note
+   ```bash
+   cd expert-note
 
 3. **Install dependencies:**
-  npm install
+   ```bash
+   npm install
 
 4. **Start the development server:**
-  npm run dev
+   ```bash
+   npm run dev
 
 5. **Open your browser and go to http://localhost:5173 to view the application.**
 
